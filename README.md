@@ -1,8 +1,19 @@
-![Profile Header Image](https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1200&auto=format&fit=crop)
-
-# Mohamed Bellouch
-
-I am a Technological Innovation Engineering student focused on building efficient systems, developing innovative solutions, and working with modern technologies. Welcome to my GitHub profile.
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="top" width="30%">
+      <!-- Vertical Sidebar Profile Image -->
+      <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=400&auto=format&fit=crop" width="100%" alt="Mohamed Bellouch Profile Header"/>
+      <br/><br/>
+      <strong>Mohamed Bellouch</strong><br/>
+      Technological Innovation Engineering Student
+    </td>
+    <td valign="top" width="70%">
+      <!-- Main Content Area -->
+      <h1>Mohamed Bellouch</h1>
+      <p>I am a Technological Innovation Engineering student focused on building efficient systems, developing innovative solutions, and working with modern technologies. Welcome to my GitHub profile.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -42,5 +53,7 @@ I am a Technological Innovation Engineering student focused on building efficien
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-012&show_icons=true&theme=flat)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-012&layout=compact&theme=flat)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-012&show_icons=true&theme=flat" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-012&layout=compact&theme=flat" width="48%" />
+</p>
