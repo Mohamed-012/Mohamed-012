@@ -1,3 +1,5 @@
+![Profile Header Image](https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1200&auto=format&fit=crop)
+
 # Mohamed Bellouch
 
 I am a Technological Innovation Engineering student focused on building efficient systems, developing innovative solutions, and working with modern technologies. Welcome to my GitHub profile.
